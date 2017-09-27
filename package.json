@@ -1,0 +1,5 @@
+{
+  "name": "test-gem",
+  "private": true,
+  "dependencies": {}
+}
